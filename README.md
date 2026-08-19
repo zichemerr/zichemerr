@@ -9,9 +9,9 @@
 <h2>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
 <ul>
-  <li>😊 Just Call Me Arief</li>
+  <li>😊 Just Call Me Yours</li>
   <li>🔭 I’m studying on something cool 🚀!</li>
-  <li>💻 I’m interested with <b>Software Engineering</b>.</li>
+  <li>💻 I’m interested with <b>GameDev</b>.</li>
 </ul>
 
 <br />
