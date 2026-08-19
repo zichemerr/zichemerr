@@ -244,15 +244,6 @@
   />
 
 <br />
-
-<h2>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞</h2>
-
-<div>
-  <a href="https://www.linkedin.com/in/arief-yusuf-winata-71a325204/" target="_blank">
-    <img
-      alt="Arief Yusuf Winata"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
     />
   </a>
   <a href="https://www.instagram.com/rief_ysfwnt/" target="_blank">
