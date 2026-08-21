@@ -11,7 +11,7 @@
 <ul>
   <li>😊 Just Call Me... zich</li>
   <li>🔭 I’m studying on something cool 🚀!</li>
-  <li>💻 I’m interested with <b>GameDev</b>.</li>
+  <li>💻 I’m interested in <b>GameDev</b>.</li>
 </ul>
 
 <br />
